@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intellgience 
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on NLP, OSM Tags
-- 📫 How to reach me likedIn at faizan7r or faizan@texodus.tech
+- 📫 How to reach me linkedIn at faizan7r or faizan@texodus.tech
 
 <!---
 phaze7r/phaze7r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
