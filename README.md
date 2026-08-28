@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phaze7r
 - 👀 I’m interested in Artificial Intellgience 
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on NLP, OSM Tags
+- 💞️ I’m looking to collaborate on NLP, OSM Tags, Omarchy and Omarchy Plugins
 - 📫 How to reach me linkedIn at faizan7r or faizan@texodus.tech
 
 <!---
