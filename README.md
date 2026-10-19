@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/faizan7r"><img src="assets/btn-linkedin.svg" alt="LinkedIn — faizan7r" height="40"></a>&nbsp;
-  <a href="mailto:faizan@texodus.tech"><img src="assets/btn-email.svg" alt="Email — faizan@texodus.tech" height="40"></a>
+  <a href="mailto:faizan@texodus.tech"><img src="assets/btn-email.svg" alt="Email — faizan@texodus.tech" height="40"></a>&nbsp;
+  <a href="https://texodus.tech"><img src="assets/btn-texodus.svg" alt="Texodus INC — texodus.tech" height="40"></a>
 </p>
 
-<p align="center"><sub>© Texodus INC</sub></p>
