@@ -22,6 +22,7 @@ faizan — founder · lead AI software engineer · researcher
 shipping   →  Texodus INC (web, AI, AI SEO)
 researching →  geospatial tagging of volunteered place descriptions
 learning   →  machine learning, properly, through the thesis
+open source →  FOSS builder & contributor (Copyzer, letterhead generator, thesis notebooks)
 open to    →  NLP · OSM tags · Omarchy & Omarchy plugins
 ```
 
@@ -48,6 +49,18 @@ flowchart LR
 | :-- | :-- |
 | **Founder & Lead AI Software Engineer** | [Texodus INC](https://texodus.tech) |
 | What I do | Web development, AI-powered products, and AI SEO: getting brands found by search engines and by AI assistants. |
+
+## Free & open source
+
+I believe in building in the open. I build FOSS and contribute to it, and everything below is open for anyone to use, fork or improve.
+
+| Project | What it is |
+| :-- | :-- |
+| [**Copyzer**](https://github.com/phaze7r/copyzer) | A fully free and open-source app. |
+| [**Texodus Free Letterhead Generator**](https://github.com/phaze7r/texodus-free-letterhead-generator) | An open-source tool for making professional letterheads. |
+| [**Geospatial Tagging Thesis**](https://github.com/phaze7r/geospatial-tagging-thesis) | My thesis code and notebooks, published openly so the research can be reproduced and built on. |
+
+**Contributions welcome.** Issues, ideas and pull requests are appreciated on all of the above. I'm also looking to contribute upstream, especially to **NLP**, **OpenStreetMap tooling** and **Omarchy** projects.
 
 ## Pinned work
 
