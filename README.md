@@ -1,59 +1,85 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="phaze7r — founder of Texodus INC, lead AI software engineer" width="100%">
-</picture>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/index-dark.svg">
-  <img src="assets/index-light.svg" alt="Founder of Texodus INC and lead AI software engineer. Researching the geospatial tagging of volunteered place descriptions with FP-Growth and a Bayesian Elastic Net (thesis in progress). Web development and AI SEO. Learning machine learning. Open to collaborating on NLP, OSM Tags, Omarchy and Omarchy plugins. Contact: faizan@texodus.tech." width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0a,100:4a4a4a&text=phaze7r&fontColor=f2f2f2&fontSize=64&fontAlignY=38&desc=Faizan%20%C2%B7%20Founder%20%40%20Texodus%20INC%20%C2%B7%20Lead%20AI%20Software%20Engineer&descSize=16&descAlignY=60" width="100%" alt="phaze7r — Founder of Texodus INC, Lead AI Software Engineer">
 
-<p align="center">
-  <a href="https://linkedin.com/in/faizan7r"><img src="assets/btn-linkedin.svg" alt="LinkedIn — faizan7r" height="40"></a>&nbsp;
-  <a href="mailto:faizan@texodus.tech"><img src="assets/btn-email.svg" alt="Email — faizan@texodus.tech" height="40"></a>&nbsp;
-  <a href="https://texodus.tech"><img src="assets/btn-texodus.svg" alt="Texodus INC — texodus.tech" height="40"></a>
-</p>
+<a href="https://github.com/phaze7r">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=8A8A8A&center=true&vCenter=true&width=640&lines=Mapping+how+people+describe+places;FP-Growth+%C3%97+Bayesian+Elastic+Net;Building+Texodus+INC;AI+SEO+%7C+Web+%7C+NLP+%7C+OSM+tags;Open+to+collaborate" alt="Typing animation of current interests">
+</a>
 
----
+<br><br>
 
-## Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan7r-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan7r)
+[![Email](https://img.shields.io/badge/Email-faizan%40texodus.tech-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan@texodus.tech)
+[![Texodus INC](https://img.shields.io/badge/Texodus_INC-texodus.tech-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://texodus.tech)
 
-Founder of **Texodus INC** and lead AI software engineer. I build web products and AI-driven systems, and I research how people describe places in natural language and how those descriptions can be turned into structured geospatial tags.
+</div>
 
-## Experience
+```text
+~ $ whoami
+faizan — founder · lead AI software engineer · researcher
 
-**Founder & Lead AI Software Engineer — [Texodus INC](https://texodus.tech)**
-Building the company and its products end to end: web development, AI features and AI-search visibility (AI SEO).
+~ $ cat now.txt
+shipping   →  Texodus INC (web, AI, AI SEO)
+researching →  geospatial tagging of volunteered place descriptions
+learning   →  machine learning, properly, through the thesis
+open to    →  NLP · OSM tags · Omarchy & Omarchy plugins
+```
 
 ## Research
 
-**Geospatial Tagging of Volunteered Place Descriptions** *(thesis in progress)*
-Mapping free-text place descriptions to OpenStreetMap-style tags using **FP-Growth** frequent-pattern mining and a **Bayesian Elastic Net**.
+> **Geospatial Tagging of Volunteered Place Descriptions** — *thesis in progress*
 
-## Focus
+People describe places in messy free text. The goal is to turn that into clean, structured OpenStreetMap-style tags.
 
-| Area | What I'm doing |
+```mermaid
+flowchart LR
+    A["Free-text place<br/>descriptions"] --> B["FP-Growth<br/>frequent patterns"]
+    B --> C["Bayesian<br/>Elastic Net"]
+    C --> D["Structured<br/>OSM tags"]
+    style A fill:#0a0a0a,stroke:#8a8a8a,color:#f2f2f2
+    style B fill:#0a0a0a,stroke:#8a8a8a,color:#f2f2f2
+    style C fill:#0a0a0a,stroke:#8a8a8a,color:#f2f2f2
+    style D fill:#f2f2f2,stroke:#f2f2f2,color:#0a0a0a
+```
+
+## Experience
+
+| | |
 | :-- | :-- |
-| Web development | Shipping production sites and products at Texodus INC |
-| AI SEO | Making brands visible to search engines and AI assistants |
-| Machine learning | Learning it in depth, driven by the thesis work |
-| NLP & OSM tags | Active research area, open to collaboration |
-| Omarchy | Open to collaborating on Omarchy and Omarchy plugins |
+| **Founder & Lead AI Software Engineer** | [Texodus INC](https://texodus.tech) |
+| What I do | Web development, AI-powered products, and AI SEO: getting brands found by search engines and by AI assistants. |
 
-## GitHub activity
+## Pinned work
+
+<sub>Synced automatically from my GitHub pins every few hours.</sub>
+
+<!--PINS:START-->
+_Pins sync here on the next run of the workflow._
+<!--PINS:END-->
+
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaze7r&bg_color=0a0a0a&color=f2f2f2&line=f2f2f2&point=ffffff&area=true&area_color=f2f2f2&hide_border=true&hide_title=true&custom_title=phaze7r%20contributions" alt="phaze7r GitHub contribution activity graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaze7r&bg_color=0a0a0a&color=f2f2f2&line=f2f2f2&point=ffffff&area=true&area_color=f2f2f2&hide_border=true&hide_title=true" alt="phaze7r contribution activity graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phaze7r&background=0a0a0a&border=8a8a8a&stroke=8a8a8a&ring=f2f2f2&fire=f2f2f2&currStreakNum=f2f2f2&currStreakLabel=f2f2f2&sideNums=f2f2f2&sideLabels=8a8a8a&dates=8a8a8a&hide_border=false" alt="phaze7r GitHub streak" height="165">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaze7r&layout=compact&hide_title=true&bg_color=0a0a0a&text_color=f2f2f2&border_color=8a8a8a&hide_border=false" alt="phaze7r top languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=phaze7r&background=0a0a0a&border=8a8a8a&stroke=8a8a8a&ring=f2f2f2&fire=f2f2f2&currStreakNum=f2f2f2&currStreakLabel=f2f2f2&sideNums=f2f2f2&sideLabels=8a8a8a&dates=8a8a8a" alt="phaze7r streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaze7r&layout=compact&hide_title=true&bg_color=0a0a0a&text_color=f2f2f2&border_color=8a8a8a" alt="phaze7r top languages" height="165">
 </p>
 
-## Let's work together
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phaze7r&theme=onedark&no-bg=false&no-frame=false&column=7&margin-w=8&margin-h=8" alt="phaze7r GitHub trophies" width="100%">
+</p>
 
-I'm open to collaborating on **NLP**, **OSM tags**, and **Omarchy plugins**.
+## Let's build something
 
-**Email** [faizan@texodus.tech](mailto:faizan@texodus.tech) · **LinkedIn** [faizan7r](https://linkedin.com/in/faizan7r) · **Web** [texodus.tech](https://texodus.tech)
+Collaboration is open on **NLP**, **OSM tags**, and **Omarchy plugins**. If it sits near geospatial, language or AI, say hi.
+
+<div align="center">
+
+**[faizan@texodus.tech](mailto:faizan@texodus.tech)** · **[linkedin.com/in/faizan7r](https://linkedin.com/in/faizan7r)** · **[texodus.tech](https://texodus.tech)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:4a4a4a,100:0a0a0a&section=footer" width="100%" alt="">
+
+</div>
