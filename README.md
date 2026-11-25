@@ -60,16 +60,11 @@ _Pins sync here on the next run of the workflow._
 ## Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/phaze7r/phaze7r/metrics/metrics.svg" alt="Terminal-style GitHub metrics: profile, isometric commit calendar, languages and lines changed" width="100%">
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaze7r&bg_color=0a0a0a&color=f2f2f2&line=f2f2f2&point=ffffff&area=true&area_color=f2f2f2&hide_border=true&hide_title=true" alt="phaze7r contribution activity graph" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phaze7r&background=0a0a0a&border=8a8a8a&stroke=8a8a8a&ring=f2f2f2&fire=f2f2f2&currStreakNum=f2f2f2&currStreakLabel=f2f2f2&sideNums=f2f2f2&sideLabels=8a8a8a&dates=8a8a8a" alt="phaze7r streak" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaze7r&layout=compact&hide_title=true&bg_color=0a0a0a&text_color=f2f2f2&border_color=8a8a8a" alt="phaze7r top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phaze7r&theme=onedark&no-bg=false&no-frame=false&column=7&margin-w=8&margin-h=8" alt="phaze7r GitHub trophies" width="100%">
 </p>
 
 ## Let's build something
